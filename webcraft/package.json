@@ -1,0 +1,17 @@
+{
+  "name": "webcraft",
+  "version": "0.1.0",
+  "description": "Web port of Minecraft: Java Edition written in OpenGL + Javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kimed Jones",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  }
+}

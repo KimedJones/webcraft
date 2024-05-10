@@ -1,0 +1,1 @@
+const canvas = document.querySelector("#screen")
